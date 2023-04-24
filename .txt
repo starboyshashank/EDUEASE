@@ -1,0 +1,16 @@
+ {/* <button type="button" class="btn btn-primary btn-lg btn-block active ">Block level button</button>
+                <div>
+                <img src="../images/vidya.jpg" className="image-fluid" alt="Girl "/> */}
+                Did you know 1 out of 6 girls never go to school ?  ...
+                <h1>TAKE ACTION : JOIN THE #CARE COLLECTIVE</h1>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Etquia quis?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Etquia quis?
+
+
+
+                style= " background :linear-gradient(90deg,#feda75 0%, #fa7e1e 25% ,#d62976 50%,#962fbf 75%, #4f5bd5 100%); color: white; overflow: hidden;"
+
+                 style="background-color:  #3b5998; color: white;"
+
+                 style= "background-color :#00acee ;color: white;
+
+                 style="background-color: rgba(0, 0, 0, 0.2);"
