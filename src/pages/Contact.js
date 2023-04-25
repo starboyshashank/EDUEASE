@@ -85,33 +85,33 @@ setUserData({...userData , [name]:value})
                                     
                                         <div className="row">
                                            <div className="col-12 col-lg-6 contact-input-field">
-                                            <input type ="text" name="firstName" id="" className="form-control" placeholder ="First Name" value={userData.firstName} onChange={postUserData} />
+                                            <input type ="text" name="firstName" id="" className="form-control lauda" placeholder ="First Name" value={userData.firstName} onChange={postUserData} />
                                            </div>
 
                                            <div className="col-12 col-lg-6 contact-input-field">
-                                            <input type ="text" name="lastName" id="" className="form-control" placeholder ="Last Name"  value={userData.lastName} onChange={postUserData}/>
+                                            <input type ="text" name="lastName" id="" className="form-control lauda" placeholder ="Last Name"  value={userData.lastName} onChange={postUserData}/>
                                            </div>
                                         </div>
 
                                         <div className="row">
                                            <div className="col-12 col-lg-6 contact-input-field">
-                                            <input type ="text" name="phone" id="" className="form-control" placeholder ="Phone Number" value={userData.phone} onChange={postUserData} />
+                                            <input type ="text" name="phone" id="" className="form-control lauda" placeholder ="Phone Number" value={userData.phone} onChange={postUserData} />
                                            </div>
 
                                            <div className="col-12 col-lg-6 contact-input-field">
-                                            <input type ="text" name="Email" id="" className="form-control" placeholder ="Email-Id"  value={userData.Email} onChange={postUserData}/>
+                                            <input type ="text" name="Email" id="" className="form-control lauda" placeholder ="Email-Id"  value={userData.Email} onChange={postUserData}/>
                                            </div>
                                         </div>
                                     
                                     <div className="row">
                                         <div className ="col-12 contact-input-field">
-                                        <input type ="text" name="address" id="" className="form-control" placeholder ="Address"  value={userData.address} onChange={postUserData}/>
+                                        <input type ="text" name="address" id="" className="form-control lauda" placeholder ="Address"  value={userData.address} onChange={postUserData}/>
                                         </div>
                                     </div>
 
                                     <div className="row">
                                         <div className ="col-12 contact-input-field">
-                                        <input type ="text" name="message" id="" className="form-control" placeholder ="Enter Your Message"  value={userData.message} onChange={postUserData}/>
+                                        <input type ="text" name="message" id="" className="form-control lauda" placeholder ="Enter Your Message"  value={userData.message} onChange={postUserData}/>
                                         </div>
                                     </div>
 

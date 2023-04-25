@@ -11,26 +11,29 @@ const About = () => {
 
 
       <div className ="chuhiya left-chuhiya">
-        <img src="./images/subject-icon-3.png" alt ="" />
+        {/* <img src="./images/subj
+        ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
-          <p>lorem dbjfbjs rsdfb</p>
+          <h2>What was the need ? </h2>
+          <small>The journey begins...</small>
+          <p>lorem dbjfbjs rsdfbbdjfd sdjnfjj</p>
           <span className="left-chuhiya-arrow"></span>
         </div>
       </div>
       
       <div className ="chuhiya right-chuhiya">
-      <img src="./images/subject-icon-3.png" alt ="" />
-        <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
-          <p>lorem dbjfbjs rsdfb</p>
+      {/* <img src="./images/subj
+      ect-icon-3.png" alt ="" /> */}
+        <div className="text-box chuso" >
+          <h2>How we did ? </h2>
+          <small>2022-2023</small>
+          <p>lorem dbjfbjs rsdfbnjs bjdjf</p>
           <span className="right-chuhiya-arrow"></span>
         </div>
       </div>
       <div className ="chuhiya left-chuhiya">
-      <img src="./images/subject-icon-3.png " alt ="" />
+      {/* <img src="./images/subj
+      ect-icon-3.png " alt ="" /> */}
         <div className="text-box">
           <h2>GOOGLE </h2>
           <small>2018-2019</small>
@@ -39,7 +42,8 @@ const About = () => {
         </div>
       </div>
       <div className ="chuhiya right-chuhiya">
-      <img src="./images/subject-icon-3.png" alt ="" />
+      {/* <img src="./images/subj
+      ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
           <h2>GOOGLE </h2>
           <small>2018-2019</small>
@@ -48,7 +52,8 @@ const About = () => {
         </div>
       </div>
       <div className ="chuhiya left-chuhiya">
-      <img src="./images/subject-icon-3.png" alt ="" />
+      {/* <img src="./images/subj
+      ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
           <h2>GOOGLE </h2>
           <small>2018-2019</small>
@@ -57,7 +62,8 @@ const About = () => {
         </div>
       </div>
       <div className ="chuhiya right-chuhiya">
-      <img src="./images/subject-icon-3.png" alt ="" />
+      {/* <img src="./images/subj
+      ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
           <h2>GOOGLE </h2>
           <small>2018-2019</small>

@@ -281,7 +281,10 @@ font-size: 1.3rem;
     outline: none;
     border: none;
 }
-
+.lauda{
+    border-radius: 50px;
+    border-color: #0eb582;
+}
 
 
 
@@ -337,6 +340,7 @@ animation-delay:0s;
     background: #0eb582;
     border-radius: 6px;
     font-size: 15px;
+    color: white;
 }
 
 .left-chuhiya{
@@ -379,10 +383,12 @@ animation-delay:0s;
  }
  .text-box h2{
     font-weight: 600;
+    
  }
  .text-box small{
     display: inline-block;
     margin-bottom: 15px;
+    
  }
 
  .left-chuhiya-arrow{
@@ -394,7 +400,7 @@ animation-delay:0s;
     border-top: 15px solid transparent;
     border-bottom:15px solid transparent;
     border-left: 15px solid #0eb582;
-    right: -15px;
+    right: 36px;
  }
  .right-chuhiya-arrow{
     height: 0;
@@ -405,7 +411,7 @@ animation-delay:0s;
     border-top: 15px solid transparent;
     border-bottom:15px solid transparent;
     border-right: 15px solid #0eb582;
-    left: -15px;
+    left: 36px;
  }
 
  @media screen and (max-width:600px){

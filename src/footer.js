@@ -53,7 +53,7 @@ const Footer = () => {
         <div className="col-md-5 col-12">
           
           <div className="form-outline form-dark underline mb-4">
-            <input type="email" id="form5Example21" className="form-control" placeholder="Email  Address" />
+            <input type="email" id="form5Example21" className="form-control lauda" placeholder="Email  Address" />
             
           </div>
         </div>
