@@ -20,6 +20,7 @@ setUserData({...userData , [name]:value})
     }
 
     // firebase connection//
+    
     const submitData = async(event)=>{
        event.preventDefault();
        const { firstName,
@@ -75,9 +76,9 @@ setUserData({...userData , [name]:value})
                                 <p className="main-hero-para fw-bold">
                                     We Would love to hear out your suggestions :)
                                 </p>
-                                <figure>
+                                {/* <figure>
                                     <img src="" alt="girl" className='img-fluid'/>
-                                </figure>
+                                </figure> */}
                             </div>
 
                             <div className ="contact-rightside col-12 col-lg-7">

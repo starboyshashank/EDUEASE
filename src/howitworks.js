@@ -7,10 +7,10 @@ const HowItWorks = () => {
     <>
     <section>
       <div className="work-container container">
-        <h1>TAKE ACTION : <span className="join">JOIN THE</span> <br /> <span className="care">#CARE COLLECTIVE</span></h1>
+        <h1>THE NEED TO-<span className="join"> COME TOGETHER TO</span> <br /> <span className="care"> SUPPORT OUR GIRLS</span></h1>
         <p className="initiative">
-          It is estimated that there are 35 million children in India who are in need of care and protection.<br/><br/>
-          It is a large number. But, at Make A Difference, we believe that the way to solve this problem is to build a community around these children. A community of those who 
+          It is estimated that there are 15 million females in India who are in need of Support and Education.<br/><br/>
+          It is a large number. But, at Make A Difference, we believe that the way to solve this problem is to build a community around these women. A community of those who 
           care and want to contribute in whichever way then can to help build long-term solutions to this problem.<br/><br/>
           Imagine what a collective of 1 million doers and believers will be able to do. We can. And we can't wait to get started!
         </p>

@@ -93,8 +93,8 @@ display:flex;
     font-size: 2.2rem;
     border-radius: 2.3rem;
     margin-top: 2.3rem;
-    margin-left: 3.3rem;
-    text-align: center;
+    margin-left: 3rem;
+    text-align: left;
 }
 .chamma:hover {
     color: #0eb582;
@@ -134,6 +134,7 @@ display:flex;
 
 
 /* INITIATIVE */
+
 .work-container{
     padding-top: 5.3rem;
 }
@@ -145,12 +146,12 @@ display:flex;
 
 /* INITIATIVE span classes */
 .join{
-    color: rgb(175, 95, 95);
+    color: #088395;
     font-size: 4.17rem;
     font-weight: bold;
 }
 .care{
-    color: rgb(37, 37, 234);
+    color: #E21818;
     font-size: 5rem;
 }
 
@@ -216,7 +217,7 @@ display:flex;
     text-decoration: none;
 }
 
-.bhadwa{
+.login-form{
     padding: 10px 80px;
 }
 
@@ -281,7 +282,7 @@ font-size: 1.3rem;
     outline: none;
     border: none;
 }
-.lauda{
+.hehe{
     border-radius: 50px;
     border-color: #0eb582;
 }
@@ -444,3 +445,5 @@ animation-delay:0s;
         left:-15px;
     }
  }
+
+  

@@ -1,11 +1,11 @@
 import React from 'react'
-// import project3 from "../project3"
 
-const Lovegpt = () => {
+
+const EduEaseGpt = () => {
   return (
-    // <div>{project3}</div>
-    <div>sshdus</div>
+    
+    <div>DEMO</div>
   )
 }
 
-export default Lovegpt;
+export default EduEaseGpt;

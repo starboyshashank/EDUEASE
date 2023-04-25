@@ -35,8 +35,8 @@ const About = () => {
       {/* <img src="./images/subj
       ect-icon-3.png " alt ="" /> */}
         <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
+          <h2>What we did?</h2>
+          <small>2022-2023</small>
           <p>lorem dbjfbjs rsdfb</p>
           <span className="left-chuhiya-arrow"></span>
         </div>
@@ -45,8 +45,8 @@ const About = () => {
       {/* <img src="./images/subj
       ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
+          <h2>Talking to NGOs</h2>
+          <small>2022-2023</small>
           <p>lorem dbjfbjs rsdfb</p>
           <span className="right-chuhiya-arrow"></span>
         </div>
@@ -55,8 +55,8 @@ const About = () => {
       {/* <img src="./images/subj
       ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
+          <h2>Work done is done</h2>
+          <small>2022-2023</small>
           <p>lorem dbjfbjs rsdfb</p>
           <span className="left-chuhiya-arrow"></span>
         </div>
@@ -65,8 +65,8 @@ const About = () => {
       {/* <img src="./images/subj
       ect-icon-3.png" alt ="" /> */}
         <div className="text-box">
-          <h2>GOOGLE </h2>
-          <small>2018-2019</small>
+          <h2>Finally we did it </h2>
+          <small>2022-2023</small>
           <p>lorem dbjfbjs rsdfb</p>
           <span className="right-chuhiya-arrow"></span>
         </div>

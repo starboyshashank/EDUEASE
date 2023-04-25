@@ -13,7 +13,7 @@ const Header = () => {
               </h1>
 
               <div className="d-grid gap-2 col-6 mx-start">
-              <button type="button" class="btn btn-success btn-lg chamma">Try <i class="bi bi-arrow-right-circle"></i></button></div>
+              <button type="button" className="btn btn-success btn-lg chamma">Know More  <i class="bi bi-arrow-right-circle"></i></button></div>
         
             </div>
       

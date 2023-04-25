@@ -53,7 +53,7 @@ const Footer = () => {
         <div className="col-md-5 col-12">
           
           <div className="form-outline form-dark underline mb-4">
-            <input type="email" id="form5Example21" className="form-control lauda" placeholder="Email  Address" />
+            <input type="email" id="form5Example21" className="form-control hehe" placeholder="Email  Address" />
             
           </div>
         </div>
@@ -92,16 +92,16 @@ const Footer = () => {
         <h5 className="text-uppercase">Quick Links</h5>
 
         <ul className="list-unstyled mb-0">
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Home</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">About</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Courses</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Contact</a>
           </li>
         </ul>
@@ -113,16 +113,16 @@ const Footer = () => {
         <h5 className="text-uppercase">Useful Links</h5>
 
         <ul className="list-unstyled mb-0">
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Help Center</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Ask Questions</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Send Feedback</a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline">Private Policy</a>
           </li>
         </ul>
@@ -134,16 +134,16 @@ const Footer = () => {
         <h5 className="text-uppercase">Social Media</h5>
 
         <ul className="list-unstyled mb-0">
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline"><i className="bi bi-facebook"></i></a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline"><i className="bi bi-instagram"></i></a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline"><i className="bi bi-twitter"></i></a>
           </li>
-          <li className="bhadwa">
+          <li className="login-form">
             <a href="#!" className="text-dark underline"><i className="bi bi-linkedin"></i></a>
           </li>
         </ul>
